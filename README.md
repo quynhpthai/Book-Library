@@ -1,1 +1,1 @@
-This project stored a sample of book database. User can add, delete, modify book like an actual book library
+This project stored a sample of book database. User can add, delete, modify book like an actual book library. We use python to provide a user interface and SQL to store the books information in the database
