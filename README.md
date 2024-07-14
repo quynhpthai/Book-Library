@@ -1,0 +1,1 @@
+This project stored a sample of book database. User can add, delete, modify book like an actual book library
